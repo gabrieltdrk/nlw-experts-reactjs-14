@@ -1,8 +1,8 @@
 # NLW Experts #14 - Trilha React.js
 
-<img src="./public/banner.png" alt="Banner README" />
+![](./public/banner.png)
 
-<p>Essa aplicação foi desenvolvida durante as três aulas do Next Level Week (NLW) Experts, da Rocketseat. Em seu desenvolvimento, foi utilizado React, TypeScript, TailwindCSS e a SpeechRecognition API.</p>
+Essa aplicação foi desenvolvida durante as três aulas do Next Level Week (NLW) Experts, da Rocketseat. Em seu desenvolvimento, foi utilizado React, TypeScript, TailwindCSS e a SpeechRecognition API.
 
 ## Executando a aplicação
 Para executar a aplicação, basta cloná-la e executar os seguintes comandos:
